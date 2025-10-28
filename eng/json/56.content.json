@@ -2,6 +2,7 @@
   {
     "content_id": 476384,
     "reference_id": 202197,
+    "version": "1.0.0",
     "title": "Titus 1:1",
     "media_type": "Text",
     "index_reference": "56001001",
@@ -22,6 +23,7 @@
   {
     "content_id": 476385,
     "reference_id": 202198,
+    "version": "1.0.0",
     "title": "Titus 1:2",
     "media_type": "Text",
     "index_reference": "56001002",
@@ -42,6 +44,7 @@
   {
     "content_id": 476386,
     "reference_id": 202199,
+    "version": "1.0.0",
     "title": "Titus 1:3",
     "media_type": "Text",
     "index_reference": "56001003",
@@ -62,6 +65,7 @@
   {
     "content_id": 476387,
     "reference_id": 202200,
+    "version": "1.0.0",
     "title": "Titus 1:4",
     "media_type": "Text",
     "index_reference": "56001004",
@@ -82,6 +86,7 @@
   {
     "content_id": 476388,
     "reference_id": 202201,
+    "version": "1.0.0",
     "title": "Titus 1:5",
     "media_type": "Text",
     "index_reference": "56001005",
@@ -102,6 +107,7 @@
   {
     "content_id": 476389,
     "reference_id": 202202,
+    "version": "1.0.0",
     "title": "Titus 1:6",
     "media_type": "Text",
     "index_reference": "56001006",
@@ -122,6 +128,7 @@
   {
     "content_id": 476390,
     "reference_id": 202203,
+    "version": "1.0.0",
     "title": "Titus 1:7",
     "media_type": "Text",
     "index_reference": "56001007",
@@ -142,6 +149,7 @@
   {
     "content_id": 476391,
     "reference_id": 202204,
+    "version": "1.0.0",
     "title": "Titus 1:8",
     "media_type": "Text",
     "index_reference": "56001008",
@@ -162,6 +170,7 @@
   {
     "content_id": 476392,
     "reference_id": 202205,
+    "version": "1.0.0",
     "title": "Titus 1:9",
     "media_type": "Text",
     "index_reference": "56001009",
@@ -182,6 +191,7 @@
   {
     "content_id": 476393,
     "reference_id": 202206,
+    "version": "1.0.0",
     "title": "Titus 1:10",
     "media_type": "Text",
     "index_reference": "56001010",
@@ -202,6 +212,7 @@
   {
     "content_id": 476394,
     "reference_id": 202207,
+    "version": "1.0.0",
     "title": "Titus 1:11",
     "media_type": "Text",
     "index_reference": "56001011",
@@ -222,6 +233,7 @@
   {
     "content_id": 476395,
     "reference_id": 202208,
+    "version": "1.0.0",
     "title": "Titus 1:12",
     "media_type": "Text",
     "index_reference": "56001012",
@@ -242,6 +254,7 @@
   {
     "content_id": 476396,
     "reference_id": 202209,
+    "version": "1.0.0",
     "title": "Titus 1:13",
     "media_type": "Text",
     "index_reference": "56001013",
@@ -262,6 +275,7 @@
   {
     "content_id": 476397,
     "reference_id": 202210,
+    "version": "1.0.0",
     "title": "Titus 1:14",
     "media_type": "Text",
     "index_reference": "56001014",
@@ -282,6 +296,7 @@
   {
     "content_id": 476398,
     "reference_id": 202211,
+    "version": "1.0.0",
     "title": "Titus 1:15",
     "media_type": "Text",
     "index_reference": "56001015",
@@ -302,6 +317,7 @@
   {
     "content_id": 476399,
     "reference_id": 202212,
+    "version": "1.0.0",
     "title": "Titus 1:16",
     "media_type": "Text",
     "index_reference": "56001016",
@@ -322,6 +338,7 @@
   {
     "content_id": 476400,
     "reference_id": 202213,
+    "version": "1.0.0",
     "title": "Titus 2:1",
     "media_type": "Text",
     "index_reference": "56002001",
@@ -342,6 +359,7 @@
   {
     "content_id": 476401,
     "reference_id": 202214,
+    "version": "1.0.0",
     "title": "Titus 2:2",
     "media_type": "Text",
     "index_reference": "56002002",
@@ -362,6 +380,7 @@
   {
     "content_id": 476402,
     "reference_id": 202215,
+    "version": "1.0.0",
     "title": "Titus 2:3",
     "media_type": "Text",
     "index_reference": "56002003",
@@ -382,6 +401,7 @@
   {
     "content_id": 476403,
     "reference_id": 202216,
+    "version": "1.0.0",
     "title": "Titus 2:4",
     "media_type": "Text",
     "index_reference": "56002004",
@@ -402,6 +422,7 @@
   {
     "content_id": 476404,
     "reference_id": 202217,
+    "version": "1.0.0",
     "title": "Titus 2:5",
     "media_type": "Text",
     "index_reference": "56002005",
@@ -422,6 +443,7 @@
   {
     "content_id": 476405,
     "reference_id": 202218,
+    "version": "1.0.0",
     "title": "Titus 2:6",
     "media_type": "Text",
     "index_reference": "56002006",
@@ -442,6 +464,7 @@
   {
     "content_id": 476406,
     "reference_id": 202219,
+    "version": "1.0.0",
     "title": "Titus 2:7",
     "media_type": "Text",
     "index_reference": "56002007",
@@ -462,6 +485,7 @@
   {
     "content_id": 476407,
     "reference_id": 202220,
+    "version": "1.0.0",
     "title": "Titus 2:8",
     "media_type": "Text",
     "index_reference": "56002008",
@@ -482,6 +506,7 @@
   {
     "content_id": 476408,
     "reference_id": 202221,
+    "version": "1.0.0",
     "title": "Titus 2:9",
     "media_type": "Text",
     "index_reference": "56002009",
@@ -502,6 +527,7 @@
   {
     "content_id": 476409,
     "reference_id": 202222,
+    "version": "1.0.0",
     "title": "Titus 2:10",
     "media_type": "Text",
     "index_reference": "56002010",
@@ -522,6 +548,7 @@
   {
     "content_id": 476410,
     "reference_id": 202223,
+    "version": "1.0.0",
     "title": "Titus 2:11",
     "media_type": "Text",
     "index_reference": "56002011",
@@ -542,6 +569,7 @@
   {
     "content_id": 476411,
     "reference_id": 202224,
+    "version": "1.0.0",
     "title": "Titus 2:12",
     "media_type": "Text",
     "index_reference": "56002012",
@@ -562,6 +590,7 @@
   {
     "content_id": 476412,
     "reference_id": 202225,
+    "version": "1.0.0",
     "title": "Titus 2:13",
     "media_type": "Text",
     "index_reference": "56002013",
@@ -582,6 +611,7 @@
   {
     "content_id": 476413,
     "reference_id": 202226,
+    "version": "1.0.0",
     "title": "Titus 2:14",
     "media_type": "Text",
     "index_reference": "56002014",
@@ -602,6 +632,7 @@
   {
     "content_id": 476414,
     "reference_id": 202227,
+    "version": "1.0.0",
     "title": "Titus 2:15",
     "media_type": "Text",
     "index_reference": "56002015",
@@ -622,6 +653,7 @@
   {
     "content_id": 476415,
     "reference_id": 202228,
+    "version": "1.0.0",
     "title": "Titus 3:1",
     "media_type": "Text",
     "index_reference": "56003001",
@@ -642,6 +674,7 @@
   {
     "content_id": 476416,
     "reference_id": 202229,
+    "version": "1.0.0",
     "title": "Titus 3:2",
     "media_type": "Text",
     "index_reference": "56003002",
@@ -662,6 +695,7 @@
   {
     "content_id": 476417,
     "reference_id": 202230,
+    "version": "1.0.0",
     "title": "Titus 3:3",
     "media_type": "Text",
     "index_reference": "56003003",
@@ -682,6 +716,7 @@
   {
     "content_id": 476418,
     "reference_id": 202231,
+    "version": "1.0.0",
     "title": "Titus 3:4",
     "media_type": "Text",
     "index_reference": "56003004",
@@ -702,6 +737,7 @@
   {
     "content_id": 476419,
     "reference_id": 202232,
+    "version": "1.0.0",
     "title": "Titus 3:5",
     "media_type": "Text",
     "index_reference": "56003005",
@@ -722,6 +758,7 @@
   {
     "content_id": 476420,
     "reference_id": 202233,
+    "version": "1.0.0",
     "title": "Titus 3:6",
     "media_type": "Text",
     "index_reference": "56003006",
@@ -742,6 +779,7 @@
   {
     "content_id": 476421,
     "reference_id": 202234,
+    "version": "1.0.0",
     "title": "Titus 3:7",
     "media_type": "Text",
     "index_reference": "56003007",
@@ -762,6 +800,7 @@
   {
     "content_id": 476422,
     "reference_id": 202235,
+    "version": "1.0.0",
     "title": "Titus 3:8",
     "media_type": "Text",
     "index_reference": "56003008",
@@ -782,6 +821,7 @@
   {
     "content_id": 476423,
     "reference_id": 202236,
+    "version": "1.0.0",
     "title": "Titus 3:9",
     "media_type": "Text",
     "index_reference": "56003009",
@@ -802,6 +842,7 @@
   {
     "content_id": 476424,
     "reference_id": 202237,
+    "version": "1.0.0",
     "title": "Titus 3:10",
     "media_type": "Text",
     "index_reference": "56003010",
@@ -822,6 +863,7 @@
   {
     "content_id": 476425,
     "reference_id": 202238,
+    "version": "1.0.0",
     "title": "Titus 3:11",
     "media_type": "Text",
     "index_reference": "56003011",
@@ -842,6 +884,7 @@
   {
     "content_id": 476426,
     "reference_id": 202239,
+    "version": "1.0.0",
     "title": "Titus 3:12",
     "media_type": "Text",
     "index_reference": "56003012",
@@ -862,6 +905,7 @@
   {
     "content_id": 476427,
     "reference_id": 202240,
+    "version": "1.0.0",
     "title": "Titus 3:13",
     "media_type": "Text",
     "index_reference": "56003013",
@@ -882,6 +926,7 @@
   {
     "content_id": 476428,
     "reference_id": 202241,
+    "version": "1.0.0",
     "title": "Titus 3:14",
     "media_type": "Text",
     "index_reference": "56003014",
@@ -902,6 +947,7 @@
   {
     "content_id": 476429,
     "reference_id": 202242,
+    "version": "1.0.0",
     "title": "Titus 3:15",
     "media_type": "Text",
     "index_reference": "56003015",

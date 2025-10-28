@@ -2,6 +2,7 @@
   {
     "content_id": 525259,
     "reference_id": 209222,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:1",
     "media_type": "Text",
     "index_reference": "22001001",
@@ -22,6 +23,7 @@
   {
     "content_id": 525263,
     "reference_id": 209223,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:2",
     "media_type": "Text",
     "index_reference": "22001002",
@@ -42,6 +44,7 @@
   {
     "content_id": 525264,
     "reference_id": 209224,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:3",
     "media_type": "Text",
     "index_reference": "22001003",
@@ -62,6 +65,7 @@
   {
     "content_id": 525265,
     "reference_id": 209225,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:4",
     "media_type": "Text",
     "index_reference": "22001004",
@@ -82,6 +86,7 @@
   {
     "content_id": 525270,
     "reference_id": 209226,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:5",
     "media_type": "Text",
     "index_reference": "22001005",
@@ -102,6 +107,7 @@
   {
     "content_id": 525271,
     "reference_id": 209227,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:6",
     "media_type": "Text",
     "index_reference": "22001006",
@@ -122,6 +128,7 @@
   {
     "content_id": 525272,
     "reference_id": 209228,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:7",
     "media_type": "Text",
     "index_reference": "22001007",
@@ -142,6 +149,7 @@
   {
     "content_id": 525273,
     "reference_id": 209229,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:8",
     "media_type": "Text",
     "index_reference": "22001008",
@@ -162,6 +170,7 @@
   {
     "content_id": 525276,
     "reference_id": 209230,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:9",
     "media_type": "Text",
     "index_reference": "22001009",
@@ -182,6 +191,7 @@
   {
     "content_id": 525278,
     "reference_id": 209231,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:10",
     "media_type": "Text",
     "index_reference": "22001010",
@@ -202,6 +212,7 @@
   {
     "content_id": 525279,
     "reference_id": 209232,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:11",
     "media_type": "Text",
     "index_reference": "22001011",
@@ -222,6 +233,7 @@
   {
     "content_id": 525282,
     "reference_id": 209233,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:12",
     "media_type": "Text",
     "index_reference": "22001012",
@@ -242,6 +254,7 @@
   {
     "content_id": 525284,
     "reference_id": 209234,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:13",
     "media_type": "Text",
     "index_reference": "22001013",
@@ -262,6 +275,7 @@
   {
     "content_id": 525286,
     "reference_id": 209235,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:14",
     "media_type": "Text",
     "index_reference": "22001014",
@@ -282,6 +296,7 @@
   {
     "content_id": 525287,
     "reference_id": 209236,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:15",
     "media_type": "Text",
     "index_reference": "22001015",
@@ -302,6 +317,7 @@
   {
     "content_id": 525289,
     "reference_id": 209237,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:16",
     "media_type": "Text",
     "index_reference": "22001016",
@@ -322,6 +338,7 @@
   {
     "content_id": 525291,
     "reference_id": 209238,
+    "version": "1.0.0",
     "title": "Song of Solomon 1:17",
     "media_type": "Text",
     "index_reference": "22001017",
@@ -342,6 +359,7 @@
   {
     "content_id": 525294,
     "reference_id": 209239,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:1",
     "media_type": "Text",
     "index_reference": "22002001",
@@ -362,6 +380,7 @@
   {
     "content_id": 525295,
     "reference_id": 209240,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:2",
     "media_type": "Text",
     "index_reference": "22002002",
@@ -382,6 +401,7 @@
   {
     "content_id": 525297,
     "reference_id": 209241,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:3",
     "media_type": "Text",
     "index_reference": "22002003",
@@ -402,6 +422,7 @@
   {
     "content_id": 525300,
     "reference_id": 209242,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:4",
     "media_type": "Text",
     "index_reference": "22002004",
@@ -422,6 +443,7 @@
   {
     "content_id": 525302,
     "reference_id": 209243,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:5",
     "media_type": "Text",
     "index_reference": "22002005",
@@ -442,6 +464,7 @@
   {
     "content_id": 525303,
     "reference_id": 209244,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:6",
     "media_type": "Text",
     "index_reference": "22002006",
@@ -462,6 +485,7 @@
   {
     "content_id": 525306,
     "reference_id": 209245,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:7",
     "media_type": "Text",
     "index_reference": "22002007",
@@ -482,6 +506,7 @@
   {
     "content_id": 525309,
     "reference_id": 209246,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:8",
     "media_type": "Text",
     "index_reference": "22002008",
@@ -502,6 +527,7 @@
   {
     "content_id": 525310,
     "reference_id": 209247,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:9",
     "media_type": "Text",
     "index_reference": "22002009",
@@ -522,6 +548,7 @@
   {
     "content_id": 525313,
     "reference_id": 209248,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:10",
     "media_type": "Text",
     "index_reference": "22002010",
@@ -542,6 +569,7 @@
   {
     "content_id": 525315,
     "reference_id": 209249,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:11",
     "media_type": "Text",
     "index_reference": "22002011",
@@ -562,6 +590,7 @@
   {
     "content_id": 525317,
     "reference_id": 209250,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:12",
     "media_type": "Text",
     "index_reference": "22002012",
@@ -582,6 +611,7 @@
   {
     "content_id": 525318,
     "reference_id": 209251,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:13",
     "media_type": "Text",
     "index_reference": "22002013",
@@ -602,6 +632,7 @@
   {
     "content_id": 525319,
     "reference_id": 209252,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:14",
     "media_type": "Text",
     "index_reference": "22002014",
@@ -622,6 +653,7 @@
   {
     "content_id": 525323,
     "reference_id": 209253,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:15",
     "media_type": "Text",
     "index_reference": "22002015",
@@ -642,6 +674,7 @@
   {
     "content_id": 525325,
     "reference_id": 209254,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:16",
     "media_type": "Text",
     "index_reference": "22002016",
@@ -662,6 +695,7 @@
   {
     "content_id": 525326,
     "reference_id": 209255,
+    "version": "1.0.0",
     "title": "Song of Solomon 2:17",
     "media_type": "Text",
     "index_reference": "22002017",
@@ -682,6 +716,7 @@
   {
     "content_id": 525330,
     "reference_id": 209256,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:1",
     "media_type": "Text",
     "index_reference": "22003001",
@@ -702,6 +737,7 @@
   {
     "content_id": 525332,
     "reference_id": 209257,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:2",
     "media_type": "Text",
     "index_reference": "22003002",
@@ -722,6 +758,7 @@
   {
     "content_id": 525333,
     "reference_id": 209258,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:3",
     "media_type": "Text",
     "index_reference": "22003003",
@@ -742,6 +779,7 @@
   {
     "content_id": 525334,
     "reference_id": 209259,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:4",
     "media_type": "Text",
     "index_reference": "22003004",
@@ -762,6 +800,7 @@
   {
     "content_id": 525338,
     "reference_id": 209260,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:5",
     "media_type": "Text",
     "index_reference": "22003005",
@@ -782,6 +821,7 @@
   {
     "content_id": 525340,
     "reference_id": 209261,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:6",
     "media_type": "Text",
     "index_reference": "22003006",
@@ -802,6 +842,7 @@
   {
     "content_id": 525341,
     "reference_id": 209262,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:7",
     "media_type": "Text",
     "index_reference": "22003007",
@@ -822,6 +863,7 @@
   {
     "content_id": 525343,
     "reference_id": 209263,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:8",
     "media_type": "Text",
     "index_reference": "22003008",
@@ -842,6 +884,7 @@
   {
     "content_id": 525346,
     "reference_id": 209264,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:9",
     "media_type": "Text",
     "index_reference": "22003009",
@@ -862,6 +905,7 @@
   {
     "content_id": 525348,
     "reference_id": 209265,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:10",
     "media_type": "Text",
     "index_reference": "22003010",
@@ -882,6 +926,7 @@
   {
     "content_id": 525350,
     "reference_id": 209266,
+    "version": "1.0.0",
     "title": "Song of Solomon 3:11",
     "media_type": "Text",
     "index_reference": "22003011",
@@ -902,6 +947,7 @@
   {
     "content_id": 525351,
     "reference_id": 209267,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:1",
     "media_type": "Text",
     "index_reference": "22004001",
@@ -922,6 +968,7 @@
   {
     "content_id": 525354,
     "reference_id": 209268,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:2",
     "media_type": "Text",
     "index_reference": "22004002",
@@ -942,6 +989,7 @@
   {
     "content_id": 525356,
     "reference_id": 209269,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:3",
     "media_type": "Text",
     "index_reference": "22004003",
@@ -962,6 +1010,7 @@
   {
     "content_id": 525358,
     "reference_id": 209270,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:4",
     "media_type": "Text",
     "index_reference": "22004004",
@@ -982,6 +1031,7 @@
   {
     "content_id": 525360,
     "reference_id": 209271,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:5",
     "media_type": "Text",
     "index_reference": "22004005",
@@ -1002,6 +1052,7 @@
   {
     "content_id": 525362,
     "reference_id": 209272,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:6",
     "media_type": "Text",
     "index_reference": "22004006",
@@ -1022,6 +1073,7 @@
   {
     "content_id": 525364,
     "reference_id": 209273,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:7",
     "media_type": "Text",
     "index_reference": "22004007",
@@ -1042,6 +1094,7 @@
   {
     "content_id": 525367,
     "reference_id": 209274,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:8",
     "media_type": "Text",
     "index_reference": "22004008",
@@ -1062,6 +1115,7 @@
   {
     "content_id": 525368,
     "reference_id": 209275,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:9",
     "media_type": "Text",
     "index_reference": "22004009",
@@ -1082,6 +1136,7 @@
   {
     "content_id": 525370,
     "reference_id": 209276,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:10",
     "media_type": "Text",
     "index_reference": "22004010",
@@ -1102,6 +1157,7 @@
   {
     "content_id": 525373,
     "reference_id": 209277,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:11",
     "media_type": "Text",
     "index_reference": "22004011",
@@ -1122,6 +1178,7 @@
   {
     "content_id": 525375,
     "reference_id": 209278,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:12",
     "media_type": "Text",
     "index_reference": "22004012",
@@ -1142,6 +1199,7 @@
   {
     "content_id": 525376,
     "reference_id": 209279,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:13",
     "media_type": "Text",
     "index_reference": "22004013",
@@ -1162,6 +1220,7 @@
   {
     "content_id": 525378,
     "reference_id": 209280,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:14",
     "media_type": "Text",
     "index_reference": "22004014",
@@ -1182,6 +1241,7 @@
   {
     "content_id": 525381,
     "reference_id": 209281,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:15",
     "media_type": "Text",
     "index_reference": "22004015",
@@ -1202,6 +1262,7 @@
   {
     "content_id": 525383,
     "reference_id": 209282,
+    "version": "1.0.0",
     "title": "Song of Solomon 4:16",
     "media_type": "Text",
     "index_reference": "22004016",
@@ -1222,6 +1283,7 @@
   {
     "content_id": 525385,
     "reference_id": 209283,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:1",
     "media_type": "Text",
     "index_reference": "22005001",
@@ -1242,6 +1304,7 @@
   {
     "content_id": 525387,
     "reference_id": 209284,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:2",
     "media_type": "Text",
     "index_reference": "22005002",
@@ -1262,6 +1325,7 @@
   {
     "content_id": 525390,
     "reference_id": 209285,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:3",
     "media_type": "Text",
     "index_reference": "22005003",
@@ -1282,6 +1346,7 @@
   {
     "content_id": 525391,
     "reference_id": 209286,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:4",
     "media_type": "Text",
     "index_reference": "22005004",
@@ -1302,6 +1367,7 @@
   {
     "content_id": 525393,
     "reference_id": 209287,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:5",
     "media_type": "Text",
     "index_reference": "22005005",
@@ -1322,6 +1388,7 @@
   {
     "content_id": 525396,
     "reference_id": 209288,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:6",
     "media_type": "Text",
     "index_reference": "22005006",
@@ -1342,6 +1409,7 @@
   {
     "content_id": 525398,
     "reference_id": 209289,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:7",
     "media_type": "Text",
     "index_reference": "22005007",
@@ -1362,6 +1430,7 @@
   {
     "content_id": 525400,
     "reference_id": 209290,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:8",
     "media_type": "Text",
     "index_reference": "22005008",
@@ -1382,6 +1451,7 @@
   {
     "content_id": 525401,
     "reference_id": 209291,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:9",
     "media_type": "Text",
     "index_reference": "22005009",
@@ -1402,6 +1472,7 @@
   {
     "content_id": 525404,
     "reference_id": 209292,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:10",
     "media_type": "Text",
     "index_reference": "22005010",
@@ -1422,6 +1493,7 @@
   {
     "content_id": 525407,
     "reference_id": 209293,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:11",
     "media_type": "Text",
     "index_reference": "22005011",
@@ -1442,6 +1514,7 @@
   {
     "content_id": 525408,
     "reference_id": 209294,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:12",
     "media_type": "Text",
     "index_reference": "22005012",
@@ -1462,6 +1535,7 @@
   {
     "content_id": 525409,
     "reference_id": 209295,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:13",
     "media_type": "Text",
     "index_reference": "22005013",
@@ -1482,6 +1556,7 @@
   {
     "content_id": 525411,
     "reference_id": 209296,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:14",
     "media_type": "Text",
     "index_reference": "22005014",
@@ -1502,6 +1577,7 @@
   {
     "content_id": 525415,
     "reference_id": 209297,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:15",
     "media_type": "Text",
     "index_reference": "22005015",
@@ -1522,6 +1598,7 @@
   {
     "content_id": 525416,
     "reference_id": 209298,
+    "version": "1.0.0",
     "title": "Song of Solomon 5:16",
     "media_type": "Text",
     "index_reference": "22005016",
@@ -1542,6 +1619,7 @@
   {
     "content_id": 525417,
     "reference_id": 209299,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:1",
     "media_type": "Text",
     "index_reference": "22006001",
@@ -1562,6 +1640,7 @@
   {
     "content_id": 525419,
     "reference_id": 209300,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:2",
     "media_type": "Text",
     "index_reference": "22006002",
@@ -1582,6 +1661,7 @@
   {
     "content_id": 525422,
     "reference_id": 209301,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:3",
     "media_type": "Text",
     "index_reference": "22006003",
@@ -1602,6 +1682,7 @@
   {
     "content_id": 525424,
     "reference_id": 209302,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:4",
     "media_type": "Text",
     "index_reference": "22006004",
@@ -1622,6 +1703,7 @@
   {
     "content_id": 525425,
     "reference_id": 209303,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:5",
     "media_type": "Text",
     "index_reference": "22006005",
@@ -1642,6 +1724,7 @@
   {
     "content_id": 525429,
     "reference_id": 209304,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:6",
     "media_type": "Text",
     "index_reference": "22006006",
@@ -1662,6 +1745,7 @@
   {
     "content_id": 525431,
     "reference_id": 209305,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:7",
     "media_type": "Text",
     "index_reference": "22006007",
@@ -1682,6 +1766,7 @@
   {
     "content_id": 525432,
     "reference_id": 209306,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:8",
     "media_type": "Text",
     "index_reference": "22006008",
@@ -1702,6 +1787,7 @@
   {
     "content_id": 525434,
     "reference_id": 209307,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:9",
     "media_type": "Text",
     "index_reference": "22006009",
@@ -1722,6 +1808,7 @@
   {
     "content_id": 525435,
     "reference_id": 209308,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:10",
     "media_type": "Text",
     "index_reference": "22006010",
@@ -1742,6 +1829,7 @@
   {
     "content_id": 525437,
     "reference_id": 209309,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:11",
     "media_type": "Text",
     "index_reference": "22006011",
@@ -1762,6 +1850,7 @@
   {
     "content_id": 525440,
     "reference_id": 209310,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:12",
     "media_type": "Text",
     "index_reference": "22006012",
@@ -1782,6 +1871,7 @@
   {
     "content_id": 525442,
     "reference_id": 209311,
+    "version": "1.0.0",
     "title": "Song of Solomon 6:13",
     "media_type": "Text",
     "index_reference": "22006013",
@@ -1802,6 +1892,7 @@
   {
     "content_id": 525443,
     "reference_id": 209312,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:1",
     "media_type": "Text",
     "index_reference": "22007001",
@@ -1822,6 +1913,7 @@
   {
     "content_id": 525445,
     "reference_id": 209313,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:2",
     "media_type": "Text",
     "index_reference": "22007002",
@@ -1842,6 +1934,7 @@
   {
     "content_id": 525447,
     "reference_id": 209314,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:3",
     "media_type": "Text",
     "index_reference": "22007003",
@@ -1862,6 +1955,7 @@
   {
     "content_id": 525449,
     "reference_id": 209315,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:4",
     "media_type": "Text",
     "index_reference": "22007004",
@@ -1882,6 +1976,7 @@
   {
     "content_id": 525451,
     "reference_id": 209316,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:5",
     "media_type": "Text",
     "index_reference": "22007005",
@@ -1902,6 +1997,7 @@
   {
     "content_id": 525452,
     "reference_id": 209317,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:6",
     "media_type": "Text",
     "index_reference": "22007006",
@@ -1922,6 +2018,7 @@
   {
     "content_id": 525455,
     "reference_id": 209318,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:7",
     "media_type": "Text",
     "index_reference": "22007007",
@@ -1942,6 +2039,7 @@
   {
     "content_id": 525457,
     "reference_id": 209319,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:8",
     "media_type": "Text",
     "index_reference": "22007008",
@@ -1962,6 +2060,7 @@
   {
     "content_id": 525459,
     "reference_id": 209320,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:9",
     "media_type": "Text",
     "index_reference": "22007009",
@@ -1982,6 +2081,7 @@
   {
     "content_id": 525460,
     "reference_id": 209321,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:10",
     "media_type": "Text",
     "index_reference": "22007010",
@@ -2002,6 +2102,7 @@
   {
     "content_id": 525463,
     "reference_id": 209322,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:11",
     "media_type": "Text",
     "index_reference": "22007011",
@@ -2022,6 +2123,7 @@
   {
     "content_id": 525466,
     "reference_id": 209323,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:12",
     "media_type": "Text",
     "index_reference": "22007012",
@@ -2042,6 +2144,7 @@
   {
     "content_id": 525467,
     "reference_id": 209324,
+    "version": "1.0.0",
     "title": "Song of Solomon 7:13",
     "media_type": "Text",
     "index_reference": "22007013",
@@ -2062,6 +2165,7 @@
   {
     "content_id": 525470,
     "reference_id": 209325,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:1",
     "media_type": "Text",
     "index_reference": "22008001",
@@ -2082,6 +2186,7 @@
   {
     "content_id": 525472,
     "reference_id": 209326,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:2",
     "media_type": "Text",
     "index_reference": "22008002",
@@ -2102,6 +2207,7 @@
   {
     "content_id": 525473,
     "reference_id": 209327,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:3",
     "media_type": "Text",
     "index_reference": "22008003",
@@ -2122,6 +2228,7 @@
   {
     "content_id": 525475,
     "reference_id": 209328,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:4",
     "media_type": "Text",
     "index_reference": "22008004",
@@ -2142,6 +2249,7 @@
   {
     "content_id": 525477,
     "reference_id": 209329,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:5",
     "media_type": "Text",
     "index_reference": "22008005",
@@ -2162,6 +2270,7 @@
   {
     "content_id": 525479,
     "reference_id": 209330,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:6",
     "media_type": "Text",
     "index_reference": "22008006",
@@ -2182,6 +2291,7 @@
   {
     "content_id": 525481,
     "reference_id": 209331,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:7",
     "media_type": "Text",
     "index_reference": "22008007",
@@ -2202,6 +2312,7 @@
   {
     "content_id": 525483,
     "reference_id": 209332,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:8",
     "media_type": "Text",
     "index_reference": "22008008",
@@ -2222,6 +2333,7 @@
   {
     "content_id": 525485,
     "reference_id": 209333,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:9",
     "media_type": "Text",
     "index_reference": "22008009",
@@ -2242,6 +2354,7 @@
   {
     "content_id": 525487,
     "reference_id": 209334,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:10",
     "media_type": "Text",
     "index_reference": "22008010",
@@ -2262,6 +2375,7 @@
   {
     "content_id": 525490,
     "reference_id": 209335,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:11",
     "media_type": "Text",
     "index_reference": "22008011",
@@ -2282,6 +2396,7 @@
   {
     "content_id": 525491,
     "reference_id": 209336,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:12",
     "media_type": "Text",
     "index_reference": "22008012",
@@ -2302,6 +2417,7 @@
   {
     "content_id": 525494,
     "reference_id": 209337,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:13",
     "media_type": "Text",
     "index_reference": "22008013",
@@ -2322,6 +2438,7 @@
   {
     "content_id": 525495,
     "reference_id": 209338,
+    "version": "1.0.0",
     "title": "Song of Solomon 8:14",
     "media_type": "Text",
     "index_reference": "22008014",

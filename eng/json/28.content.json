@@ -2,6 +2,7 @@
   {
     "content_id": 520562,
     "reference_id": 207012,
+    "version": "1.0.0",
     "title": "Hosea 1:1",
     "media_type": "Text",
     "index_reference": "28001001",
@@ -22,6 +23,7 @@
   {
     "content_id": 520563,
     "reference_id": 207013,
+    "version": "1.0.0",
     "title": "Hosea 1:2",
     "media_type": "Text",
     "index_reference": "28001002",
@@ -42,6 +44,7 @@
   {
     "content_id": 520564,
     "reference_id": 207014,
+    "version": "1.0.0",
     "title": "Hosea 1:3",
     "media_type": "Text",
     "index_reference": "28001003",
@@ -62,6 +65,7 @@
   {
     "content_id": 520568,
     "reference_id": 207015,
+    "version": "1.0.0",
     "title": "Hosea 1:4",
     "media_type": "Text",
     "index_reference": "28001004",
@@ -82,6 +86,7 @@
   {
     "content_id": 520570,
     "reference_id": 207016,
+    "version": "1.0.0",
     "title": "Hosea 1:5",
     "media_type": "Text",
     "index_reference": "28001005",
@@ -102,6 +107,7 @@
   {
     "content_id": 520571,
     "reference_id": 207017,
+    "version": "1.0.0",
     "title": "Hosea 1:6",
     "media_type": "Text",
     "index_reference": "28001006",
@@ -122,6 +128,7 @@
   {
     "content_id": 520574,
     "reference_id": 207018,
+    "version": "1.0.0",
     "title": "Hosea 1:7",
     "media_type": "Text",
     "index_reference": "28001007",
@@ -142,6 +149,7 @@
   {
     "content_id": 520575,
     "reference_id": 207019,
+    "version": "1.0.0",
     "title": "Hosea 1:8",
     "media_type": "Text",
     "index_reference": "28001008",
@@ -162,6 +170,7 @@
   {
     "content_id": 520578,
     "reference_id": 207020,
+    "version": "1.0.0",
     "title": "Hosea 1:9",
     "media_type": "Text",
     "index_reference": "28001009",
@@ -182,6 +191,7 @@
   {
     "content_id": 520579,
     "reference_id": 207021,
+    "version": "1.0.0",
     "title": "Hosea 1:10",
     "media_type": "Text",
     "index_reference": "28001010",
@@ -202,6 +212,7 @@
   {
     "content_id": 520582,
     "reference_id": 207022,
+    "version": "1.0.0",
     "title": "Hosea 1:11",
     "media_type": "Text",
     "index_reference": "28001011",
@@ -222,6 +233,7 @@
   {
     "content_id": 520585,
     "reference_id": 207023,
+    "version": "1.0.0",
     "title": "Hosea 2:1",
     "media_type": "Text",
     "index_reference": "28002001",
@@ -242,6 +254,7 @@
   {
     "content_id": 520586,
     "reference_id": 207024,
+    "version": "1.0.0",
     "title": "Hosea 2:2",
     "media_type": "Text",
     "index_reference": "28002002",
@@ -262,6 +275,7 @@
   {
     "content_id": 520589,
     "reference_id": 207025,
+    "version": "1.0.0",
     "title": "Hosea 2:3",
     "media_type": "Text",
     "index_reference": "28002003",
@@ -282,6 +296,7 @@
   {
     "content_id": 520592,
     "reference_id": 207026,
+    "version": "1.0.0",
     "title": "Hosea 2:4",
     "media_type": "Text",
     "index_reference": "28002004",
@@ -302,6 +317,7 @@
   {
     "content_id": 520593,
     "reference_id": 207027,
+    "version": "1.0.0",
     "title": "Hosea 2:5",
     "media_type": "Text",
     "index_reference": "28002005",
@@ -322,6 +338,7 @@
   {
     "content_id": 520594,
     "reference_id": 207028,
+    "version": "1.0.0",
     "title": "Hosea 2:6",
     "media_type": "Text",
     "index_reference": "28002006",
@@ -342,6 +359,7 @@
   {
     "content_id": 520597,
     "reference_id": 207029,
+    "version": "1.0.0",
     "title": "Hosea 2:7",
     "media_type": "Text",
     "index_reference": "28002007",
@@ -362,6 +380,7 @@
   {
     "content_id": 520600,
     "reference_id": 207030,
+    "version": "1.0.0",
     "title": "Hosea 2:8",
     "media_type": "Text",
     "index_reference": "28002008",
@@ -382,6 +401,7 @@
   {
     "content_id": 520601,
     "reference_id": 207031,
+    "version": "1.0.0",
     "title": "Hosea 2:9",
     "media_type": "Text",
     "index_reference": "28002009",
@@ -402,6 +422,7 @@
   {
     "content_id": 520604,
     "reference_id": 207032,
+    "version": "1.0.0",
     "title": "Hosea 2:10",
     "media_type": "Text",
     "index_reference": "28002010",
@@ -422,6 +443,7 @@
   {
     "content_id": 520606,
     "reference_id": 207033,
+    "version": "1.0.0",
     "title": "Hosea 2:11",
     "media_type": "Text",
     "index_reference": "28002011",
@@ -442,6 +464,7 @@
   {
     "content_id": 520608,
     "reference_id": 207034,
+    "version": "1.0.0",
     "title": "Hosea 2:12",
     "media_type": "Text",
     "index_reference": "28002012",
@@ -462,6 +485,7 @@
   {
     "content_id": 520610,
     "reference_id": 207035,
+    "version": "1.0.0",
     "title": "Hosea 2:13",
     "media_type": "Text",
     "index_reference": "28002013",
@@ -482,6 +506,7 @@
   {
     "content_id": 520612,
     "reference_id": 207036,
+    "version": "1.0.0",
     "title": "Hosea 2:14",
     "media_type": "Text",
     "index_reference": "28002014",
@@ -502,6 +527,7 @@
   {
     "content_id": 520614,
     "reference_id": 207037,
+    "version": "1.0.0",
     "title": "Hosea 2:15",
     "media_type": "Text",
     "index_reference": "28002015",
@@ -522,6 +548,7 @@
   {
     "content_id": 520616,
     "reference_id": 207038,
+    "version": "1.0.0",
     "title": "Hosea 2:16",
     "media_type": "Text",
     "index_reference": "28002016",
@@ -542,6 +569,7 @@
   {
     "content_id": 520618,
     "reference_id": 207039,
+    "version": "1.0.0",
     "title": "Hosea 2:17",
     "media_type": "Text",
     "index_reference": "28002017",
@@ -562,6 +590,7 @@
   {
     "content_id": 520620,
     "reference_id": 207040,
+    "version": "1.0.0",
     "title": "Hosea 2:18",
     "media_type": "Text",
     "index_reference": "28002018",
@@ -582,6 +611,7 @@
   {
     "content_id": 520623,
     "reference_id": 207041,
+    "version": "1.0.0",
     "title": "Hosea 2:19",
     "media_type": "Text",
     "index_reference": "28002019",
@@ -602,6 +632,7 @@
   {
     "content_id": 520625,
     "reference_id": 207042,
+    "version": "1.0.0",
     "title": "Hosea 2:20",
     "media_type": "Text",
     "index_reference": "28002020",
@@ -622,6 +653,7 @@
   {
     "content_id": 520627,
     "reference_id": 207043,
+    "version": "1.0.0",
     "title": "Hosea 2:21",
     "media_type": "Text",
     "index_reference": "28002021",
@@ -642,6 +674,7 @@
   {
     "content_id": 520629,
     "reference_id": 207044,
+    "version": "1.0.0",
     "title": "Hosea 2:22",
     "media_type": "Text",
     "index_reference": "28002022",
@@ -662,6 +695,7 @@
   {
     "content_id": 520630,
     "reference_id": 207045,
+    "version": "1.0.0",
     "title": "Hosea 2:23",
     "media_type": "Text",
     "index_reference": "28002023",
@@ -682,6 +716,7 @@
   {
     "content_id": 520632,
     "reference_id": 207046,
+    "version": "1.0.0",
     "title": "Hosea 3:1",
     "media_type": "Text",
     "index_reference": "28003001",
@@ -702,6 +737,7 @@
   {
     "content_id": 520635,
     "reference_id": 207047,
+    "version": "1.0.0",
     "title": "Hosea 3:2",
     "media_type": "Text",
     "index_reference": "28003002",
@@ -722,6 +758,7 @@
   {
     "content_id": 520637,
     "reference_id": 207048,
+    "version": "1.0.0",
     "title": "Hosea 3:3",
     "media_type": "Text",
     "index_reference": "28003003",
@@ -742,6 +779,7 @@
   {
     "content_id": 520638,
     "reference_id": 207049,
+    "version": "1.0.0",
     "title": "Hosea 3:4",
     "media_type": "Text",
     "index_reference": "28003004",
@@ -762,6 +800,7 @@
   {
     "content_id": 520641,
     "reference_id": 207050,
+    "version": "1.0.0",
     "title": "Hosea 3:5",
     "media_type": "Text",
     "index_reference": "28003005",
@@ -782,6 +821,7 @@
   {
     "content_id": 520643,
     "reference_id": 207051,
+    "version": "1.0.0",
     "title": "Hosea 4:1",
     "media_type": "Text",
     "index_reference": "28004001",
@@ -802,6 +842,7 @@
   {
     "content_id": 520645,
     "reference_id": 207052,
+    "version": "1.0.0",
     "title": "Hosea 4:2",
     "media_type": "Text",
     "index_reference": "28004002",
@@ -822,6 +863,7 @@
   {
     "content_id": 520647,
     "reference_id": 207053,
+    "version": "1.0.0",
     "title": "Hosea 4:3",
     "media_type": "Text",
     "index_reference": "28004003",
@@ -842,6 +884,7 @@
   {
     "content_id": 520649,
     "reference_id": 207054,
+    "version": "1.0.0",
     "title": "Hosea 4:4",
     "media_type": "Text",
     "index_reference": "28004004",
@@ -862,6 +905,7 @@
   {
     "content_id": 520652,
     "reference_id": 207055,
+    "version": "1.0.0",
     "title": "Hosea 4:5",
     "media_type": "Text",
     "index_reference": "28004005",
@@ -882,6 +926,7 @@
   {
     "content_id": 520653,
     "reference_id": 207056,
+    "version": "1.0.0",
     "title": "Hosea 4:6",
     "media_type": "Text",
     "index_reference": "28004006",
@@ -902,6 +947,7 @@
   {
     "content_id": 520654,
     "reference_id": 207057,
+    "version": "1.0.0",
     "title": "Hosea 4:7",
     "media_type": "Text",
     "index_reference": "28004007",
@@ -922,6 +968,7 @@
   {
     "content_id": 520658,
     "reference_id": 207058,
+    "version": "1.0.0",
     "title": "Hosea 4:8",
     "media_type": "Text",
     "index_reference": "28004008",
@@ -942,6 +989,7 @@
   {
     "content_id": 520659,
     "reference_id": 207059,
+    "version": "1.0.0",
     "title": "Hosea 4:9",
     "media_type": "Text",
     "index_reference": "28004009",
@@ -962,6 +1010,7 @@
   {
     "content_id": 520661,
     "reference_id": 207060,
+    "version": "1.0.0",
     "title": "Hosea 4:10",
     "media_type": "Text",
     "index_reference": "28004010",
@@ -982,6 +1031,7 @@
   {
     "content_id": 520664,
     "reference_id": 207061,
+    "version": "1.0.0",
     "title": "Hosea 4:11",
     "media_type": "Text",
     "index_reference": "28004011",
@@ -1002,6 +1052,7 @@
   {
     "content_id": 520666,
     "reference_id": 207062,
+    "version": "1.0.0",
     "title": "Hosea 4:12",
     "media_type": "Text",
     "index_reference": "28004012",
@@ -1022,6 +1073,7 @@
   {
     "content_id": 520668,
     "reference_id": 207063,
+    "version": "1.0.0",
     "title": "Hosea 4:13",
     "media_type": "Text",
     "index_reference": "28004013",
@@ -1042,6 +1094,7 @@
   {
     "content_id": 520670,
     "reference_id": 207064,
+    "version": "1.0.0",
     "title": "Hosea 4:14",
     "media_type": "Text",
     "index_reference": "28004014",
@@ -1062,6 +1115,7 @@
   {
     "content_id": 520673,
     "reference_id": 207065,
+    "version": "1.0.0",
     "title": "Hosea 4:15",
     "media_type": "Text",
     "index_reference": "28004015",
@@ -1082,6 +1136,7 @@
   {
     "content_id": 520675,
     "reference_id": 207066,
+    "version": "1.0.0",
     "title": "Hosea 4:16",
     "media_type": "Text",
     "index_reference": "28004016",
@@ -1102,6 +1157,7 @@
   {
     "content_id": 520676,
     "reference_id": 207067,
+    "version": "1.0.0",
     "title": "Hosea 4:17",
     "media_type": "Text",
     "index_reference": "28004017",
@@ -1122,6 +1178,7 @@
   {
     "content_id": 520678,
     "reference_id": 207068,
+    "version": "1.0.0",
     "title": "Hosea 4:18",
     "media_type": "Text",
     "index_reference": "28004018",
@@ -1142,6 +1199,7 @@
   {
     "content_id": 520681,
     "reference_id": 207069,
+    "version": "1.0.0",
     "title": "Hosea 4:19",
     "media_type": "Text",
     "index_reference": "28004019",
@@ -1162,6 +1220,7 @@
   {
     "content_id": 520683,
     "reference_id": 207070,
+    "version": "1.0.0",
     "title": "Hosea 5:1",
     "media_type": "Text",
     "index_reference": "28005001",
@@ -1182,6 +1241,7 @@
   {
     "content_id": 520684,
     "reference_id": 207071,
+    "version": "1.0.0",
     "title": "Hosea 5:2",
     "media_type": "Text",
     "index_reference": "28005002",
@@ -1202,6 +1262,7 @@
   {
     "content_id": 520685,
     "reference_id": 207072,
+    "version": "1.0.0",
     "title": "Hosea 5:3",
     "media_type": "Text",
     "index_reference": "28005003",
@@ -1222,6 +1283,7 @@
   {
     "content_id": 520689,
     "reference_id": 207073,
+    "version": "1.0.0",
     "title": "Hosea 5:4",
     "media_type": "Text",
     "index_reference": "28005004",
@@ -1242,6 +1304,7 @@
   {
     "content_id": 520691,
     "reference_id": 207074,
+    "version": "1.0.0",
     "title": "Hosea 5:5",
     "media_type": "Text",
     "index_reference": "28005005",
@@ -1262,6 +1325,7 @@
   {
     "content_id": 520693,
     "reference_id": 207075,
+    "version": "1.0.0",
     "title": "Hosea 5:6",
     "media_type": "Text",
     "index_reference": "28005006",
@@ -1282,6 +1346,7 @@
   {
     "content_id": 520695,
     "reference_id": 207076,
+    "version": "1.0.0",
     "title": "Hosea 5:7",
     "media_type": "Text",
     "index_reference": "28005007",
@@ -1302,6 +1367,7 @@
   {
     "content_id": 520698,
     "reference_id": 207077,
+    "version": "1.0.0",
     "title": "Hosea 5:8",
     "media_type": "Text",
     "index_reference": "28005008",
@@ -1322,6 +1388,7 @@
   {
     "content_id": 520699,
     "reference_id": 207078,
+    "version": "1.0.0",
     "title": "Hosea 5:9",
     "media_type": "Text",
     "index_reference": "28005009",
@@ -1342,6 +1409,7 @@
   {
     "content_id": 520701,
     "reference_id": 207079,
+    "version": "1.0.0",
     "title": "Hosea 5:10",
     "media_type": "Text",
     "index_reference": "28005010",
@@ -1362,6 +1430,7 @@
   {
     "content_id": 520704,
     "reference_id": 207080,
+    "version": "1.0.0",
     "title": "Hosea 5:11",
     "media_type": "Text",
     "index_reference": "28005011",
@@ -1382,6 +1451,7 @@
   {
     "content_id": 520706,
     "reference_id": 207081,
+    "version": "1.0.0",
     "title": "Hosea 5:12",
     "media_type": "Text",
     "index_reference": "28005012",
@@ -1402,6 +1472,7 @@
   {
     "content_id": 520707,
     "reference_id": 207082,
+    "version": "1.0.0",
     "title": "Hosea 5:13",
     "media_type": "Text",
     "index_reference": "28005013",
@@ -1422,6 +1493,7 @@
   {
     "content_id": 520711,
     "reference_id": 207083,
+    "version": "1.0.0",
     "title": "Hosea 5:14",
     "media_type": "Text",
     "index_reference": "28005014",
@@ -1442,6 +1514,7 @@
   {
     "content_id": 520712,
     "reference_id": 207084,
+    "version": "1.0.0",
     "title": "Hosea 5:15",
     "media_type": "Text",
     "index_reference": "28005015",
@@ -1462,6 +1535,7 @@
   {
     "content_id": 520714,
     "reference_id": 207085,
+    "version": "1.0.0",
     "title": "Hosea 6:1",
     "media_type": "Text",
     "index_reference": "28006001",
@@ -1482,6 +1556,7 @@
   {
     "content_id": 520717,
     "reference_id": 207086,
+    "version": "1.0.0",
     "title": "Hosea 6:2",
     "media_type": "Text",
     "index_reference": "28006002",
@@ -1502,6 +1577,7 @@
   {
     "content_id": 520718,
     "reference_id": 207087,
+    "version": "1.0.0",
     "title": "Hosea 6:3",
     "media_type": "Text",
     "index_reference": "28006003",
@@ -1522,6 +1598,7 @@
   {
     "content_id": 520721,
     "reference_id": 207088,
+    "version": "1.0.0",
     "title": "Hosea 6:4",
     "media_type": "Text",
     "index_reference": "28006004",
@@ -1542,6 +1619,7 @@
   {
     "content_id": 520722,
     "reference_id": 207089,
+    "version": "1.0.0",
     "title": "Hosea 6:5",
     "media_type": "Text",
     "index_reference": "28006005",
@@ -1562,6 +1640,7 @@
   {
     "content_id": 520725,
     "reference_id": 207090,
+    "version": "1.0.0",
     "title": "Hosea 6:6",
     "media_type": "Text",
     "index_reference": "28006006",
@@ -1582,6 +1661,7 @@
   {
     "content_id": 520727,
     "reference_id": 207091,
+    "version": "1.0.0",
     "title": "Hosea 6:7",
     "media_type": "Text",
     "index_reference": "28006007",
@@ -1602,6 +1682,7 @@
   {
     "content_id": 520729,
     "reference_id": 207092,
+    "version": "1.0.0",
     "title": "Hosea 6:8",
     "media_type": "Text",
     "index_reference": "28006008",
@@ -1622,6 +1703,7 @@
   {
     "content_id": 520732,
     "reference_id": 207093,
+    "version": "1.0.0",
     "title": "Hosea 6:9",
     "media_type": "Text",
     "index_reference": "28006009",
@@ -1642,6 +1724,7 @@
   {
     "content_id": 520733,
     "reference_id": 207094,
+    "version": "1.0.0",
     "title": "Hosea 6:10",
     "media_type": "Text",
     "index_reference": "28006010",
@@ -1662,6 +1745,7 @@
   {
     "content_id": 520735,
     "reference_id": 207095,
+    "version": "1.0.0",
     "title": "Hosea 6:11",
     "media_type": "Text",
     "index_reference": "28006011",
@@ -1682,6 +1766,7 @@
   {
     "content_id": 520737,
     "reference_id": 207096,
+    "version": "1.0.0",
     "title": "Hosea 7:1",
     "media_type": "Text",
     "index_reference": "28007001",
@@ -1702,6 +1787,7 @@
   {
     "content_id": 520739,
     "reference_id": 207097,
+    "version": "1.0.0",
     "title": "Hosea 7:2",
     "media_type": "Text",
     "index_reference": "28007002",
@@ -1722,6 +1808,7 @@
   {
     "content_id": 520741,
     "reference_id": 207098,
+    "version": "1.0.0",
     "title": "Hosea 7:3",
     "media_type": "Text",
     "index_reference": "28007003",
@@ -1742,6 +1829,7 @@
   {
     "content_id": 520743,
     "reference_id": 207099,
+    "version": "1.0.0",
     "title": "Hosea 7:4",
     "media_type": "Text",
     "index_reference": "28007004",
@@ -1762,6 +1850,7 @@
   {
     "content_id": 520745,
     "reference_id": 207100,
+    "version": "1.0.0",
     "title": "Hosea 7:5",
     "media_type": "Text",
     "index_reference": "28007005",
@@ -1782,6 +1871,7 @@
   {
     "content_id": 520747,
     "reference_id": 207101,
+    "version": "1.0.0",
     "title": "Hosea 7:6",
     "media_type": "Text",
     "index_reference": "28007006",
@@ -1802,6 +1892,7 @@
   {
     "content_id": 520749,
     "reference_id": 207102,
+    "version": "1.0.0",
     "title": "Hosea 7:7",
     "media_type": "Text",
     "index_reference": "28007007",
@@ -1822,6 +1913,7 @@
   {
     "content_id": 520750,
     "reference_id": 207103,
+    "version": "1.0.0",
     "title": "Hosea 7:8",
     "media_type": "Text",
     "index_reference": "28007008",
@@ -1842,6 +1934,7 @@
   {
     "content_id": 520752,
     "reference_id": 207104,
+    "version": "1.0.0",
     "title": "Hosea 7:9",
     "media_type": "Text",
     "index_reference": "28007009",
@@ -1862,6 +1955,7 @@
   {
     "content_id": 520755,
     "reference_id": 207105,
+    "version": "1.0.0",
     "title": "Hosea 7:10",
     "media_type": "Text",
     "index_reference": "28007010",
@@ -1882,6 +1976,7 @@
   {
     "content_id": 520757,
     "reference_id": 207106,
+    "version": "1.0.0",
     "title": "Hosea 7:11",
     "media_type": "Text",
     "index_reference": "28007011",
@@ -1902,6 +1997,7 @@
   {
     "content_id": 520758,
     "reference_id": 207107,
+    "version": "1.0.0",
     "title": "Hosea 7:12",
     "media_type": "Text",
     "index_reference": "28007012",
@@ -1922,6 +2018,7 @@
   {
     "content_id": 520759,
     "reference_id": 207108,
+    "version": "1.0.0",
     "title": "Hosea 7:13",
     "media_type": "Text",
     "index_reference": "28007013",
@@ -1942,6 +2039,7 @@
   {
     "content_id": 520762,
     "reference_id": 207109,
+    "version": "1.0.0",
     "title": "Hosea 7:14",
     "media_type": "Text",
     "index_reference": "28007014",
@@ -1962,6 +2060,7 @@
   {
     "content_id": 520765,
     "reference_id": 207110,
+    "version": "1.0.0",
     "title": "Hosea 7:15",
     "media_type": "Text",
     "index_reference": "28007015",
@@ -1982,6 +2081,7 @@
   {
     "content_id": 520766,
     "reference_id": 207111,
+    "version": "1.0.0",
     "title": "Hosea 7:16",
     "media_type": "Text",
     "index_reference": "28007016",
@@ -2002,6 +2102,7 @@
   {
     "content_id": 520767,
     "reference_id": 207112,
+    "version": "1.0.0",
     "title": "Hosea 8:1",
     "media_type": "Text",
     "index_reference": "28008001",
@@ -2022,6 +2123,7 @@
   {
     "content_id": 520770,
     "reference_id": 207113,
+    "version": "1.0.0",
     "title": "Hosea 8:2",
     "media_type": "Text",
     "index_reference": "28008002",
@@ -2042,6 +2144,7 @@
   {
     "content_id": 520772,
     "reference_id": 207114,
+    "version": "1.0.0",
     "title": "Hosea 8:3",
     "media_type": "Text",
     "index_reference": "28008003",
@@ -2062,6 +2165,7 @@
   {
     "content_id": 520774,
     "reference_id": 207115,
+    "version": "1.0.0",
     "title": "Hosea 8:4",
     "media_type": "Text",
     "index_reference": "28008004",
@@ -2082,6 +2186,7 @@
   {
     "content_id": 520776,
     "reference_id": 207116,
+    "version": "1.0.0",
     "title": "Hosea 8:5",
     "media_type": "Text",
     "index_reference": "28008005",
@@ -2102,6 +2207,7 @@
   {
     "content_id": 520778,
     "reference_id": 207117,
+    "version": "1.0.0",
     "title": "Hosea 8:6",
     "media_type": "Text",
     "index_reference": "28008006",
@@ -2122,6 +2228,7 @@
   {
     "content_id": 520780,
     "reference_id": 207118,
+    "version": "1.0.0",
     "title": "Hosea 8:7",
     "media_type": "Text",
     "index_reference": "28008007",
@@ -2142,6 +2249,7 @@
   {
     "content_id": 520783,
     "reference_id": 207119,
+    "version": "1.0.0",
     "title": "Hosea 8:8",
     "media_type": "Text",
     "index_reference": "28008008",
@@ -2162,6 +2270,7 @@
   {
     "content_id": 520785,
     "reference_id": 207120,
+    "version": "1.0.0",
     "title": "Hosea 8:9",
     "media_type": "Text",
     "index_reference": "28008009",
@@ -2182,6 +2291,7 @@
   {
     "content_id": 520786,
     "reference_id": 207121,
+    "version": "1.0.0",
     "title": "Hosea 8:10",
     "media_type": "Text",
     "index_reference": "28008010",
@@ -2202,6 +2312,7 @@
   {
     "content_id": 520791,
     "reference_id": 207122,
+    "version": "1.0.0",
     "title": "Hosea 8:11",
     "media_type": "Text",
     "index_reference": "28008011",
@@ -2222,6 +2333,7 @@
   {
     "content_id": 520792,
     "reference_id": 207123,
+    "version": "1.0.0",
     "title": "Hosea 8:12",
     "media_type": "Text",
     "index_reference": "28008012",
@@ -2242,6 +2354,7 @@
   {
     "content_id": 520793,
     "reference_id": 207124,
+    "version": "1.0.0",
     "title": "Hosea 8:13",
     "media_type": "Text",
     "index_reference": "28008013",
@@ -2262,6 +2375,7 @@
   {
     "content_id": 520796,
     "reference_id": 207125,
+    "version": "1.0.0",
     "title": "Hosea 8:14",
     "media_type": "Text",
     "index_reference": "28008014",
@@ -2282,6 +2396,7 @@
   {
     "content_id": 520799,
     "reference_id": 207126,
+    "version": "1.0.0",
     "title": "Hosea 9:1",
     "media_type": "Text",
     "index_reference": "28009001",
@@ -2302,6 +2417,7 @@
   {
     "content_id": 520800,
     "reference_id": 207127,
+    "version": "1.0.0",
     "title": "Hosea 9:2",
     "media_type": "Text",
     "index_reference": "28009002",
@@ -2322,6 +2438,7 @@
   {
     "content_id": 520801,
     "reference_id": 207128,
+    "version": "1.0.0",
     "title": "Hosea 9:3",
     "media_type": "Text",
     "index_reference": "28009003",
@@ -2342,6 +2459,7 @@
   {
     "content_id": 520805,
     "reference_id": 207129,
+    "version": "1.0.0",
     "title": "Hosea 9:4",
     "media_type": "Text",
     "index_reference": "28009004",
@@ -2362,6 +2480,7 @@
   {
     "content_id": 520807,
     "reference_id": 207130,
+    "version": "1.0.0",
     "title": "Hosea 9:5",
     "media_type": "Text",
     "index_reference": "28009005",
@@ -2382,6 +2501,7 @@
   {
     "content_id": 520808,
     "reference_id": 207131,
+    "version": "1.0.0",
     "title": "Hosea 9:6",
     "media_type": "Text",
     "index_reference": "28009006",
@@ -2402,6 +2522,7 @@
   {
     "content_id": 520811,
     "reference_id": 207132,
+    "version": "1.0.0",
     "title": "Hosea 9:7",
     "media_type": "Text",
     "index_reference": "28009007",
@@ -2422,6 +2543,7 @@
   {
     "content_id": 520814,
     "reference_id": 207133,
+    "version": "1.0.0",
     "title": "Hosea 9:8",
     "media_type": "Text",
     "index_reference": "28009008",
@@ -2442,6 +2564,7 @@
   {
     "content_id": 520815,
     "reference_id": 207134,
+    "version": "1.0.0",
     "title": "Hosea 9:9",
     "media_type": "Text",
     "index_reference": "28009009",
@@ -2462,6 +2585,7 @@
   {
     "content_id": 520817,
     "reference_id": 207135,
+    "version": "1.0.0",
     "title": "Hosea 9:10",
     "media_type": "Text",
     "index_reference": "28009010",
@@ -2482,6 +2606,7 @@
   {
     "content_id": 520819,
     "reference_id": 207136,
+    "version": "1.0.0",
     "title": "Hosea 9:11",
     "media_type": "Text",
     "index_reference": "28009011",
@@ -2502,6 +2627,7 @@
   {
     "content_id": 520821,
     "reference_id": 207137,
+    "version": "1.0.0",
     "title": "Hosea 9:12",
     "media_type": "Text",
     "index_reference": "28009012",
@@ -2522,6 +2648,7 @@
   {
     "content_id": 520822,
     "reference_id": 207138,
+    "version": "1.0.0",
     "title": "Hosea 9:13",
     "media_type": "Text",
     "index_reference": "28009013",
@@ -2542,6 +2669,7 @@
   {
     "content_id": 520823,
     "reference_id": 207139,
+    "version": "1.0.0",
     "title": "Hosea 9:14",
     "media_type": "Text",
     "index_reference": "28009014",
@@ -2562,6 +2690,7 @@
   {
     "content_id": 520828,
     "reference_id": 207140,
+    "version": "1.0.0",
     "title": "Hosea 9:15",
     "media_type": "Text",
     "index_reference": "28009015",
@@ -2582,6 +2711,7 @@
   {
     "content_id": 520829,
     "reference_id": 207141,
+    "version": "1.0.0",
     "title": "Hosea 9:16",
     "media_type": "Text",
     "index_reference": "28009016",
@@ -2602,6 +2732,7 @@
   {
     "content_id": 520831,
     "reference_id": 207142,
+    "version": "1.0.0",
     "title": "Hosea 9:17",
     "media_type": "Text",
     "index_reference": "28009017",
@@ -2622,6 +2753,7 @@
   {
     "content_id": 520835,
     "reference_id": 207143,
+    "version": "1.0.0",
     "title": "Hosea 10:1",
     "media_type": "Text",
     "index_reference": "28010001",
@@ -2642,6 +2774,7 @@
   {
     "content_id": 520836,
     "reference_id": 207144,
+    "version": "1.0.0",
     "title": "Hosea 10:2",
     "media_type": "Text",
     "index_reference": "28010002",
@@ -2662,6 +2795,7 @@
   {
     "content_id": 520838,
     "reference_id": 207145,
+    "version": "1.0.0",
     "title": "Hosea 10:3",
     "media_type": "Text",
     "index_reference": "28010003",
@@ -2682,6 +2816,7 @@
   {
     "content_id": 520841,
     "reference_id": 207146,
+    "version": "1.0.0",
     "title": "Hosea 10:4",
     "media_type": "Text",
     "index_reference": "28010004",
@@ -2702,6 +2837,7 @@
   {
     "content_id": 520843,
     "reference_id": 207147,
+    "version": "1.0.0",
     "title": "Hosea 10:5",
     "media_type": "Text",
     "index_reference": "28010005",
@@ -2722,6 +2858,7 @@
   {
     "content_id": 520846,
     "reference_id": 207148,
+    "version": "1.0.0",
     "title": "Hosea 10:6",
     "media_type": "Text",
     "index_reference": "28010006",
@@ -2742,6 +2879,7 @@
   {
     "content_id": 520848,
     "reference_id": 207149,
+    "version": "1.0.0",
     "title": "Hosea 10:7",
     "media_type": "Text",
     "index_reference": "28010007",
@@ -2762,6 +2900,7 @@
   {
     "content_id": 520850,
     "reference_id": 207150,
+    "version": "1.0.0",
     "title": "Hosea 10:8",
     "media_type": "Text",
     "index_reference": "28010008",
@@ -2782,6 +2921,7 @@
   {
     "content_id": 520852,
     "reference_id": 207151,
+    "version": "1.0.0",
     "title": "Hosea 10:9",
     "media_type": "Text",
     "index_reference": "28010009",
@@ -2802,6 +2942,7 @@
   {
     "content_id": 520854,
     "reference_id": 207152,
+    "version": "1.0.0",
     "title": "Hosea 10:10",
     "media_type": "Text",
     "index_reference": "28010010",
@@ -2822,6 +2963,7 @@
   {
     "content_id": 520856,
     "reference_id": 207153,
+    "version": "1.0.0",
     "title": "Hosea 10:11",
     "media_type": "Text",
     "index_reference": "28010011",
@@ -2842,6 +2984,7 @@
   {
     "content_id": 520858,
     "reference_id": 207154,
+    "version": "1.0.0",
     "title": "Hosea 10:12",
     "media_type": "Text",
     "index_reference": "28010012",
@@ -2862,6 +3005,7 @@
   {
     "content_id": 520860,
     "reference_id": 207155,
+    "version": "1.0.0",
     "title": "Hosea 10:13",
     "media_type": "Text",
     "index_reference": "28010013",
@@ -2882,6 +3026,7 @@
   {
     "content_id": 520862,
     "reference_id": 207156,
+    "version": "1.0.0",
     "title": "Hosea 10:14",
     "media_type": "Text",
     "index_reference": "28010014",
@@ -2902,6 +3047,7 @@
   {
     "content_id": 520864,
     "reference_id": 207157,
+    "version": "1.0.0",
     "title": "Hosea 10:15",
     "media_type": "Text",
     "index_reference": "28010015",
@@ -2922,6 +3068,7 @@
   {
     "content_id": 520867,
     "reference_id": 207158,
+    "version": "1.0.0",
     "title": "Hosea 11:1",
     "media_type": "Text",
     "index_reference": "28011001",
@@ -2942,6 +3089,7 @@
   {
     "content_id": 520868,
     "reference_id": 207159,
+    "version": "1.0.0",
     "title": "Hosea 11:2",
     "media_type": "Text",
     "index_reference": "28011002",
@@ -2962,6 +3110,7 @@
   {
     "content_id": 520870,
     "reference_id": 207160,
+    "version": "1.0.0",
     "title": "Hosea 11:3",
     "media_type": "Text",
     "index_reference": "28011003",
@@ -2982,6 +3131,7 @@
   {
     "content_id": 520873,
     "reference_id": 207161,
+    "version": "1.0.0",
     "title": "Hosea 11:4",
     "media_type": "Text",
     "index_reference": "28011004",
@@ -3002,6 +3152,7 @@
   {
     "content_id": 520875,
     "reference_id": 207162,
+    "version": "1.0.0",
     "title": "Hosea 11:5",
     "media_type": "Text",
     "index_reference": "28011005",
@@ -3022,6 +3173,7 @@
   {
     "content_id": 520876,
     "reference_id": 207163,
+    "version": "1.0.0",
     "title": "Hosea 11:6",
     "media_type": "Text",
     "index_reference": "28011006",
@@ -3042,6 +3194,7 @@
   {
     "content_id": 520878,
     "reference_id": 207164,
+    "version": "1.0.0",
     "title": "Hosea 11:7",
     "media_type": "Text",
     "index_reference": "28011007",
@@ -3062,6 +3215,7 @@
   {
     "content_id": 520881,
     "reference_id": 207165,
+    "version": "1.0.0",
     "title": "Hosea 11:8",
     "media_type": "Text",
     "index_reference": "28011008",
@@ -3082,6 +3236,7 @@
   {
     "content_id": 520883,
     "reference_id": 207166,
+    "version": "1.0.0",
     "title": "Hosea 11:9",
     "media_type": "Text",
     "index_reference": "28011009",
@@ -3102,6 +3257,7 @@
   {
     "content_id": 520884,
     "reference_id": 207167,
+    "version": "1.0.0",
     "title": "Hosea 11:10",
     "media_type": "Text",
     "index_reference": "28011010",
@@ -3122,6 +3278,7 @@
   {
     "content_id": 520886,
     "reference_id": 207168,
+    "version": "1.0.0",
     "title": "Hosea 11:11",
     "media_type": "Text",
     "index_reference": "28011011",
@@ -3142,6 +3299,7 @@
   {
     "content_id": 520888,
     "reference_id": 207169,
+    "version": "1.0.0",
     "title": "Hosea 11:12",
     "media_type": "Text",
     "index_reference": "28011012",
@@ -3162,6 +3320,7 @@
   {
     "content_id": 520891,
     "reference_id": 207170,
+    "version": "1.0.0",
     "title": "Hosea 12:1",
     "media_type": "Text",
     "index_reference": "28012001",
@@ -3182,6 +3341,7 @@
   {
     "content_id": 520893,
     "reference_id": 207171,
+    "version": "1.0.0",
     "title": "Hosea 12:2",
     "media_type": "Text",
     "index_reference": "28012002",
@@ -3202,6 +3362,7 @@
   {
     "content_id": 520895,
     "reference_id": 207172,
+    "version": "1.0.0",
     "title": "Hosea 12:3",
     "media_type": "Text",
     "index_reference": "28012003",
@@ -3222,6 +3383,7 @@
   {
     "content_id": 520896,
     "reference_id": 207173,
+    "version": "1.0.0",
     "title": "Hosea 12:4",
     "media_type": "Text",
     "index_reference": "28012004",
@@ -3242,6 +3404,7 @@
   {
     "content_id": 520899,
     "reference_id": 207174,
+    "version": "1.0.0",
     "title": "Hosea 12:5",
     "media_type": "Text",
     "index_reference": "28012005",
@@ -3262,6 +3425,7 @@
   {
     "content_id": 520902,
     "reference_id": 207175,
+    "version": "1.0.0",
     "title": "Hosea 12:6",
     "media_type": "Text",
     "index_reference": "28012006",
@@ -3282,6 +3446,7 @@
   {
     "content_id": 520903,
     "reference_id": 207176,
+    "version": "1.0.0",
     "title": "Hosea 12:7",
     "media_type": "Text",
     "index_reference": "28012007",
@@ -3302,6 +3467,7 @@
   {
     "content_id": 520906,
     "reference_id": 207177,
+    "version": "1.0.0",
     "title": "Hosea 12:8",
     "media_type": "Text",
     "index_reference": "28012008",
@@ -3322,6 +3488,7 @@
   {
     "content_id": 520908,
     "reference_id": 207178,
+    "version": "1.0.0",
     "title": "Hosea 12:9",
     "media_type": "Text",
     "index_reference": "28012009",
@@ -3342,6 +3509,7 @@
   {
     "content_id": 520910,
     "reference_id": 207179,
+    "version": "1.0.0",
     "title": "Hosea 12:10",
     "media_type": "Text",
     "index_reference": "28012010",
@@ -3362,6 +3530,7 @@
   {
     "content_id": 520912,
     "reference_id": 207180,
+    "version": "1.0.0",
     "title": "Hosea 12:11",
     "media_type": "Text",
     "index_reference": "28012011",
@@ -3382,6 +3551,7 @@
   {
     "content_id": 520915,
     "reference_id": 207181,
+    "version": "1.0.0",
     "title": "Hosea 12:12",
     "media_type": "Text",
     "index_reference": "28012012",
@@ -3402,6 +3572,7 @@
   {
     "content_id": 520917,
     "reference_id": 207182,
+    "version": "1.0.0",
     "title": "Hosea 12:13",
     "media_type": "Text",
     "index_reference": "28012013",
@@ -3422,6 +3593,7 @@
   {
     "content_id": 520918,
     "reference_id": 207183,
+    "version": "1.0.0",
     "title": "Hosea 12:14",
     "media_type": "Text",
     "index_reference": "28012014",
@@ -3442,6 +3614,7 @@
   {
     "content_id": 520919,
     "reference_id": 207184,
+    "version": "1.0.0",
     "title": "Hosea 13:1",
     "media_type": "Text",
     "index_reference": "28013001",
@@ -3462,6 +3635,7 @@
   {
     "content_id": 520922,
     "reference_id": 207185,
+    "version": "1.0.0",
     "title": "Hosea 13:2",
     "media_type": "Text",
     "index_reference": "28013002",
@@ -3482,6 +3656,7 @@
   {
     "content_id": 520923,
     "reference_id": 207186,
+    "version": "1.0.0",
     "title": "Hosea 13:3",
     "media_type": "Text",
     "index_reference": "28013003",
@@ -3502,6 +3677,7 @@
   {
     "content_id": 520924,
     "reference_id": 207187,
+    "version": "1.0.0",
     "title": "Hosea 13:4",
     "media_type": "Text",
     "index_reference": "28013004",
@@ -3522,6 +3698,7 @@
   {
     "content_id": 520927,
     "reference_id": 207188,
+    "version": "1.0.0",
     "title": "Hosea 13:5",
     "media_type": "Text",
     "index_reference": "28013005",
@@ -3542,6 +3719,7 @@
   {
     "content_id": 520930,
     "reference_id": 207189,
+    "version": "1.0.0",
     "title": "Hosea 13:6",
     "media_type": "Text",
     "index_reference": "28013006",
@@ -3562,6 +3740,7 @@
   {
     "content_id": 520931,
     "reference_id": 207190,
+    "version": "1.0.0",
     "title": "Hosea 13:7",
     "media_type": "Text",
     "index_reference": "28013007",
@@ -3582,6 +3761,7 @@
   {
     "content_id": 520933,
     "reference_id": 207191,
+    "version": "1.0.0",
     "title": "Hosea 13:8",
     "media_type": "Text",
     "index_reference": "28013008",
@@ -3602,6 +3782,7 @@
   {
     "content_id": 520935,
     "reference_id": 207192,
+    "version": "1.0.0",
     "title": "Hosea 13:9",
     "media_type": "Text",
     "index_reference": "28013009",
@@ -3622,6 +3803,7 @@
   {
     "content_id": 520938,
     "reference_id": 207193,
+    "version": "1.0.0",
     "title": "Hosea 13:10",
     "media_type": "Text",
     "index_reference": "28013010",
@@ -3642,6 +3824,7 @@
   {
     "content_id": 520939,
     "reference_id": 207194,
+    "version": "1.0.0",
     "title": "Hosea 13:11",
     "media_type": "Text",
     "index_reference": "28013011",
@@ -3662,6 +3845,7 @@
   {
     "content_id": 520942,
     "reference_id": 207195,
+    "version": "1.0.0",
     "title": "Hosea 13:12",
     "media_type": "Text",
     "index_reference": "28013012",
@@ -3682,6 +3866,7 @@
   {
     "content_id": 520943,
     "reference_id": 207196,
+    "version": "1.0.0",
     "title": "Hosea 13:13",
     "media_type": "Text",
     "index_reference": "28013013",
@@ -3702,6 +3887,7 @@
   {
     "content_id": 520945,
     "reference_id": 207197,
+    "version": "1.0.0",
     "title": "Hosea 13:14",
     "media_type": "Text",
     "index_reference": "28013014",
@@ -3722,6 +3908,7 @@
   {
     "content_id": 520947,
     "reference_id": 207198,
+    "version": "1.0.0",
     "title": "Hosea 13:15",
     "media_type": "Text",
     "index_reference": "28013015",
@@ -3742,6 +3929,7 @@
   {
     "content_id": 520950,
     "reference_id": 207199,
+    "version": "1.0.0",
     "title": "Hosea 13:16",
     "media_type": "Text",
     "index_reference": "28013016",
@@ -3762,6 +3950,7 @@
   {
     "content_id": 520951,
     "reference_id": 207200,
+    "version": "1.0.0",
     "title": "Hosea 14:1",
     "media_type": "Text",
     "index_reference": "28014001",
@@ -3782,6 +3971,7 @@
   {
     "content_id": 520952,
     "reference_id": 207201,
+    "version": "1.0.0",
     "title": "Hosea 14:2",
     "media_type": "Text",
     "index_reference": "28014002",
@@ -3802,6 +3992,7 @@
   {
     "content_id": 520955,
     "reference_id": 207202,
+    "version": "1.0.0",
     "title": "Hosea 14:3",
     "media_type": "Text",
     "index_reference": "28014003",
@@ -3822,6 +4013,7 @@
   {
     "content_id": 520958,
     "reference_id": 207203,
+    "version": "1.0.0",
     "title": "Hosea 14:4",
     "media_type": "Text",
     "index_reference": "28014004",
@@ -3842,6 +4034,7 @@
   {
     "content_id": 520960,
     "reference_id": 207204,
+    "version": "1.0.0",
     "title": "Hosea 14:5",
     "media_type": "Text",
     "index_reference": "28014005",
@@ -3862,6 +4055,7 @@
   {
     "content_id": 520961,
     "reference_id": 207205,
+    "version": "1.0.0",
     "title": "Hosea 14:6",
     "media_type": "Text",
     "index_reference": "28014006",
@@ -3882,6 +4076,7 @@
   {
     "content_id": 520965,
     "reference_id": 207206,
+    "version": "1.0.0",
     "title": "Hosea 14:7",
     "media_type": "Text",
     "index_reference": "28014007",
@@ -3902,6 +4097,7 @@
   {
     "content_id": 520966,
     "reference_id": 207207,
+    "version": "1.0.0",
     "title": "Hosea 14:8",
     "media_type": "Text",
     "index_reference": "28014008",
@@ -3922,6 +4118,7 @@
   {
     "content_id": 520968,
     "reference_id": 207208,
+    "version": "1.0.0",
     "title": "Hosea 14:9",
     "media_type": "Text",
     "index_reference": "28014009",
